@@ -18,6 +18,11 @@ Every four hours, these clicks are recorded. Additionally the clicker is reset t
 subtract the clicker record from the previous day. And here is where we found our first hurdle: each Turnstile resets at a different time,
 as a result, some results showed Daily entries in the millions. If that doesn’t seem right, it’s because it isn’t. Oops. 
 
+Sadly, this project had a time constraint, and we couldn’t exactly employ a ‘no man left behind ‘ policy. 
+Daily entries with unreasonable counts were dropped, but it did allow us to get reasonable counts for traffic entered for each station. 
+Looking over a couple of months, here are the Daily Entries for all turnstiles at Times square. 
+![an image]({{ site.baseurl }}/images/ turnstile_Times-Square.png)
+
 ![an image]({{ site.baseurl }}/images/NYC_Map.png "NYC Map of most popupular stations")
 
 
