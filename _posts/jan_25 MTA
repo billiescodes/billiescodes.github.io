@@ -23,6 +23,10 @@ Daily entries with unreasonable counts were dropped, but it did allow us to get 
 Looking over a couple of months, here are the Daily Entries for all turnstiles at Times square. 
 ![an image]({{ site.baseurl }}/images/ turnstile_Times-Square.png)
 
+As a Consulting company to marketers, we were also interested in the most popular stations for each month. 
+We found the most popular stations in December. 
+![an image]({{ site.baseurl }}/images/december_popular.png "Most popular in December")
+
 ![an image]({{ site.baseurl }}/images/NYC_Map.png "NYC Map of most popupular stations")
 
 
