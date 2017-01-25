@@ -29,7 +29,7 @@ We found the most popular stations in December and the by-Weekday traffic for th
 ![an image]({{ site.baseurl }}/images/weekly_avg.png "Weekly")
 
 Just for fun, here's a map of NYC and the location of these most popular stations. Apparently New Yorkers like to hang out in Midtown.
-![an image]({{ site.baseurl }}/images/NYC_Map.png "NYC Map of most popupular stations")
+![an image]({{ site.baseurl }}/images/NYC_map.png "NYC Map of most popupular stations")
 
 Other hurdles we found were related to dates and times. It was difficult to do calculations over the New Year, so we ended up
 sticking with data from 2016. Also some turnstiles started their daily count at different times, which we had to account for.
