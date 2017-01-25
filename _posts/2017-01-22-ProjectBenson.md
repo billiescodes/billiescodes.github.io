@@ -21,7 +21,7 @@ as a result, some results showed Daily entries in the millions. If that doesn’
 Sadly, this project had a time constraint, and we couldn’t exactly employ a ‘no man left behind ‘ policy. 
 Daily entries with unreasonable counts were dropped, but it did allow us to get reasonable counts for traffic entered for each station. 
 Looking over a couple of months, here are the Daily Entries for all turnstiles at Times square. 
-![an image]({{ site.baseurl }}/images/ turnstile_Times-Square.png)
+![an image]({{ site.baseurl }}/images/turnstile_Times-Square.png)
 
 As a Consulting company to marketers, we were also interested in the most popular stations for each month. 
 We found the most popular stations in December and the by-Weekday traffic for those stations.
@@ -35,5 +35,4 @@ Other hurdles we found were related to dates and times. It was difficult to do c
 sticking with data from 2016. Also some turnstiles started their daily count at different times, which we had to account for.
 Overall the data was fun to mess with and I learned a valuable lesson: leave perfectionism at the door!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
